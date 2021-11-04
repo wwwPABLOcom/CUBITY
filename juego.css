@@ -18,7 +18,7 @@ header, .main, footer {
 header nav {
     background: #130c32 ;
     overflow:hidden;
-    padding-left: 30%;
+    padding-left: 5%;
 }
 
 header nav ul {
@@ -38,10 +38,6 @@ header nav ul li a {
 
 header nav ul li a:hover {
     background: linear-gradient(to right, #e02f47, #130c32)
-}
-
-img {
-    margin: 10px;
 }
 
 /*MAIN*/
