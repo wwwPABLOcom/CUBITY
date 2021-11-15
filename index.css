@@ -37,7 +37,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    background: linear-gradient(to right, #e02f47, #130c32)
+    margin: 20px;
 }
 
 /*MAIN*/
