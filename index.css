@@ -55,7 +55,7 @@ header nav ul li a:hover {
 }
 
 .main2 {
-    background-color: #130c32;
+    background: linear-gradient(to left, #e02f47, #130c32);
     background-size: 97rem;
 }
 
