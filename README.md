@@ -1,4 +1,4 @@
 # CUBITY
 Web coding project
-
-https://friendly-feynman-b0d9cf.netlify.app
+cubity.netlify.app
+IG: cubitythegame
