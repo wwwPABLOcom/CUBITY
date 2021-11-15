@@ -37,7 +37,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    margin: 20px;
+    font-size: 30px;
 }
 
 /*MAIN*/
