@@ -54,6 +54,9 @@ header nav ul li a:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.main img {
+     size:120%;
+
 .main2 {
     background: linear-gradient(to left, #e02f47, #130c32);
     background-size: 97rem;
