@@ -16,7 +16,7 @@ header, .main, footer {
 /*HEADER*/
 
 header nav {
-    background: #130c32 ;
+    background: linear-gradient(to left, #e02f47, #130c32) ;
     overflow:hidden;
     padding-left: 5%;
 }
