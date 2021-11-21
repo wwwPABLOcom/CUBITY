@@ -42,7 +42,13 @@ header nav ul li a:hover {
 
 /*MAIN*/
 
+.main .ig {
+    padding-left:15%;
+}
 
+.main .contacto {
+    padding-left:15%;
+}
 
 /*FOOTER*/
 
